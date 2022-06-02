@@ -75,6 +75,7 @@ _[Ss]cripts
 *.dot[Cc]over
 
 .DS_STORE
+dist/
 node_modules
 scripts/flow/*/.flowconfig
 .flowconfig
